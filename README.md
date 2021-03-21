@@ -1,4 +1,4 @@
-# Bot-Detector-Server-Files
+# Bot-Detector-Server-Files [Dead Repo ref to Core Files]
 Server files for the OSRS Bot Detector Plugin.
 
 * Plugin Page: https://github.com/Ferrariic/bot-detector
